@@ -1,0 +1,9 @@
+C:\H4\Tilfældigheder\Tilfældigheder\bin\Debug\net472\Tilfældigheder.exe.config
+C:\H4\Tilfældigheder\Tilfældigheder\bin\Debug\net472\Tilfældigheder.exe
+C:\H4\Tilfældigheder\Tilfældigheder\bin\Debug\net472\Tilfældigheder.pdb
+C:\H4\Tilfældigheder\Tilfældigheder\obj\Debug\net472\Tilfældigheder.csprojAssemblyReference.cache
+C:\H4\Tilfældigheder\Tilfældigheder\obj\Debug\net472\Tilfældigheder.AssemblyInfoInputs.cache
+C:\H4\Tilfældigheder\Tilfældigheder\obj\Debug\net472\Tilfældigheder.AssemblyInfo.cs
+C:\H4\Tilfældigheder\Tilfældigheder\obj\Debug\net472\Tilfældigheder.csproj.CoreCompileInputs.cache
+C:\H4\Tilfældigheder\Tilfældigheder\obj\Debug\net472\Tilfældigheder.exe
+C:\H4\Tilfældigheder\Tilfældigheder\obj\Debug\net472\Tilfældigheder.pdb
